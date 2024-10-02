@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @nikkk2317
-- 👀 I’m interested in Web Development and Machine Learning
-- 🌱 I’m a Web Developer
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+👋 Hi, I’m Nikhil Pawar
+👀 I’m interested in Frontend Web Development and Machine Learning
+🌱 I’m a Web Developer with a focus on creating responsive and user-friendly applications using the MERN stack.
+💞️ I’m looking to collaborate on innovative projects. 
+📫 How to reach me: You can connect with me on LinkedIn  or email me at nikkhilpawar@gmail.com
 
 <!---
 nikkk2317/nikkk2317 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
